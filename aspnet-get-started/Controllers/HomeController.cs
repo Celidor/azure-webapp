@@ -15,7 +15,7 @@ namespace aspnet_get_started.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "A Cloud Guru.";
+            ViewBag.Message = "A Cloud Guru";
 
             return View();
         }
